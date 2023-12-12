@@ -1,8 +1,5 @@
-Hey, I'm Ádryann Geovanny! 👋!
+Olá, meu nome é Ádryann Geovanny! 👋!
 
-Code is poetry.
+Código é poesia.
 
-I create ideas and develop solutions in software form using my creativity and my technical knowledge in Swift, building mobile apps with Uikit and SwiftUI that are not only beautiful, but also enjoyable to use and truly problem-solving. Always writing not only maintainable and scalable software, but also the readable code that will make scalability and maintainability possible. A clean and understandable code, as a good poem should be.
-
-⚡
-  
+Crio ideias e desenvolvo soluções em forma de software usando minha criatividade e meu conhecimento técnico em Swift, construindo aplicativos móveis com Uikit e SwiftUI que não são apenas bonitos, mas também agradáveis ​​de usar e verdadeiramente solucionadores de problemas. Sempre escrevendo não apenas software sustentável e escalonável, mas também o código legível que tornará possível a escalabilidade e a manutenção. Um código limpo e compreensível, como deve ser um bom poema.
