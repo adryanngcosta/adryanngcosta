@@ -70,5 +70,10 @@ Always looking for new learning, technical challenges and good conversations abo
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adryanngcosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/output/github-contribution-grid-snake.svg">
+</picture>
