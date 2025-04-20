@@ -25,13 +25,13 @@
 
 ###
 
-<p align="left">Hello! I'm Adryann, a student in the DevOps area.
+<p align="left">Hello! I'm Adryann, a DevOps Engineer.
 
-I have solid experience with Linux, networks, automation with Python and a good command of tools such as Docker, Kubernetes, AWS, Terraform. I like to work with infrastructure in a modern, scalable, secure and, above all, automated way.
+I have solid experience with Linux, networks, automation with Python and good command of tools such as Docker, Kubernetes, AWS and Terraform. I like to work with infrastructure in a modern, scalable, secure and, above all, automated way.
 
-What motivates me most in the DevOps area is precisely this: being able to deal with complex environments and finding ways to simplify and optimize everything with code and good practices.
+What motivates me most in the DevOps area is precisely this: being able to deal with complex environments and finding ways to simplify and optimize everything with code and best practices.
 
-Always looking for new learning, technical challenges and good conversations about technology!</p>
+I'm always looking for new learning, technical challenges and good conversations about technology.</p>
 
 ###
 
