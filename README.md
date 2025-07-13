@@ -25,13 +25,14 @@
 
 ###
 
-<p align="left">Hello! I'm Adryann, a DevOps Engineer.
+<p align="left">Hello! I'm Adryann, a Cybersecurity Specialist — Red Team & DevSecOps.
+I have strong experience with offensive security, Linux environments, network exploitation, and automation with Python. I work with tools like Burp Suite, Nmap, Metasploit, and also apply DevSecOps principles using Docker, Kubernetes, AWS, Terraform, and CI/CD pipelines with integrated security controls.
 
-I have solid experience with Linux, networks, automation with Python and good command of tools such as Docker, Kubernetes, AWS and Terraform. I like to work with infrastructure in a modern, scalable, secure and, above all, automated way.
+What drives me in cybersecurity — especially on the Red Team side — is the challenge of simulating real attacks, identifying weaknesses before attackers do, and helping to build more resilient, secure, and well-structured systems.
 
-What motivates me most in the DevOps area is precisely this: being able to deal with complex environments and finding ways to simplify and optimize everything with code and best practices.
+I believe security must be integrated from code to production, and I’m passionate about automating security testing, infrastructure hardening, and hunting for vulnerabilities in complex environments.
 
-I'm always looking for new learning, technical challenges and good conversations about technology.</p>
+I'm constantly seeking knowledge, technical challenges, and meaningful conversations about offensive security, secure architecture, and DevSecOps culture.</p>
 
 ###
 
