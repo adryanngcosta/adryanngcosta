@@ -50,22 +50,3 @@ Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e e
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
-  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-## My Contribution Graph
-
-<!-- [game-name] -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-</picture>
-
-###
