@@ -28,7 +28,6 @@ Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e e
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
