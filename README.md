@@ -31,6 +31,10 @@ Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e e
 
 ###
 
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -61,7 +65,7 @@ Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e e
 ###
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/stats-output/stats.svg](https://github.com/adryanngcosta/adryanngcosta/blob/main/arcade.yml)" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
   <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
