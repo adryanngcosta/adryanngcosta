@@ -19,13 +19,13 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋</h1>
 
 ###
 
 ###
 
-<p align="left">HSou Desenvolvedor Full Stack e gosto de criar aplicações modernas, funcionais e bem estruturadas. Trabalho com HTML, CSS, JavaScript, TypeScript, Node.js e Express, desenvolvendo tanto o front-end quanto o back-end das aplicações.
+<p align="left">Sou Desenvolvedor Full Stack e gosto de criar aplicações modernas, funcionais e bem estruturadas. Trabalho com HTML, CSS, JavaScript, TypeScript, Node.js e Express, desenvolvendo tanto o front-end quanto o back-end das aplicações.
 
 Tenho bastante interesse em desenvolvimento web, principalmente na parte de lógica, APIs, automações e construção de sistemas escaláveis. Também gosto de pensar na experiência do usuário e em como deixar as aplicações mais organizadas, rápidas e intuitivas.
 
