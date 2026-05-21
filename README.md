@@ -22,7 +22,7 @@
 Tenho bastante interesse em desenvolvimento web, principalmente na parte de lógica, APIs, automações e construção de sistemas escaláveis. Também gosto de pensar na experiência do usuário e em como deixar as aplicações mais organizadas, rápidas e intuitivas.
 
 Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e enfrentar desafios técnicos que me façam evoluir como desenvolvedor. Estou sempre buscando melhorar minhas habilidades, criar projetos cada vez mais completos e participar de ambientes onde eu possa crescer profissionalmente e contribuir com o time.
-.</p>
+</p>
 
 ###
 
