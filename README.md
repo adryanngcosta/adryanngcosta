@@ -50,3 +50,12 @@ Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e e
 </div>
 
 ###
+
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/output/pacman-contribution-graph.svg">
+</picture>
