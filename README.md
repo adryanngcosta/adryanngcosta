@@ -50,3 +50,19 @@ Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e e
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
+  <img src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adryanngcosta/adryanngcosta/pacman-output/bomberman-contribution-graph.svg">
+</picture>
+
+###
