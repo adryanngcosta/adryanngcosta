@@ -25,14 +25,12 @@
 
 ###
 
-<p align="left">Hello! I'm Adryann, a Cybersecurity Specialist — Red Team & DevSecOps.
-I have strong experience with offensive security, Linux environments, network exploitation, and automation with Python. I work with tools like Burp Suite, Nmap, Metasploit, and also apply DevSecOps principles using Docker, Kubernetes, AWS, Terraform, and CI/CD pipelines with integrated security controls.
+<p align="left">HSou Desenvolvedor Full Stack e gosto de criar aplicações modernas, funcionais e bem estruturadas. Trabalho com HTML, CSS, JavaScript, TypeScript, Node.js e Express, desenvolvendo tanto o front-end quanto o back-end das aplicações.
 
-What drives me in cybersecurity — especially on the Red Team side — is the challenge of simulating real attacks, identifying weaknesses before attackers do, and helping to build more resilient, secure, and well-structured systems.
+Tenho bastante interesse em desenvolvimento web, principalmente na parte de lógica, APIs, automações e construção de sistemas escaláveis. Também gosto de pensar na experiência do usuário e em como deixar as aplicações mais organizadas, rápidas e intuitivas.
 
-I believe security must be integrated from code to production, and I’m passionate about automating security testing, infrastructure hardening, and hunting for vulnerabilities in complex environments.
-
-I'm constantly seeking knowledge, technical challenges, and meaningful conversations about offensive security, secure architecture, and DevSecOps culture.</p>
+Sou uma pessoa que gosta de aprender na prática, explorar novas tecnologias e enfrentar desafios técnicos que me façam evoluir como desenvolvedor. Estou sempre buscando melhorar minhas habilidades, criar projetos cada vez mais completos e participar de ambientes onde eu possa crescer profissionalmente e contribuir com o time.
+.</p>
 
 ###
 
